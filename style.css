@@ -1,0 +1,33 @@
+body{
+    padding: 20px;
+    margin: 20px;
+}
+
+.nav {
+    padding: 0px;
+    margin: 0px:
+}
+
+.jumbotron {
+    padding: auto;
+    margin: auto;
+}
+
+.rounded float-right {
+    float: right;
+    padding: 20px;
+    margin: 20px;
+    
+}
+
+.rounded float-left {
+    float: left;
+    padding: 20px;
+    margin: 20px;
+}
+
+img {
+    width: 400px;
+    height: 200px:
+}
+
